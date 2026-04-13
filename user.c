@@ -31,14 +31,6 @@ int main() {
     scanf(" %[^\n]", alamat);
 
 
-    printf("\n Data Mahasiswa \n");
-    printf("Nama    : %s\n", nama);
-    printf("NPM     : %s\n", npm);
-    printf("Jurusan : %s\n", jurusan);
-    printf("usia   : %s\n", usia);
-    printf("hobi   : %s\n", hobi);
-    printf("alamat   : %s\n", alamat);
-
     printf("\nData berhasil disimpan");
 
     return 0;
